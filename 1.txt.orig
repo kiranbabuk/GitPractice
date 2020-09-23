@@ -1,4 +1,6 @@
 this is the first line
+<<<<<<< HEAD
 Adding feature1
-=
+=======
 Adding feature2
+>>>>>>> f2
